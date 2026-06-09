@@ -85,13 +85,6 @@ A fully staged local AI infrastructure built on Docker and WSL2, mirroring enter
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=threejay20&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
