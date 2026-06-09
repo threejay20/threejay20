@@ -1,19 +1,21 @@
 # 💫 About Me:
-I design and deploy **cloud-native architectures on AWS** with a focus on security, automation, and reliability.<br>
-I actively build **real-world AWS projects** that reflect production patterns — not demos.<br>
-I’m open to collaboration on **AWS / Cloud / DevOps** projects and selective freelance work.<br>
-Currently deepening expertise in **cloud networking, IAM, and CI/CD pipelines**.<br>
-Ask me about **AWS architectures, serverless systems, or GitHub Actions with OIDC**.<br>
-Fun fact: I stay active and apply the same discipline to my engineering work.
+I build infrastructure that actually works — not demos, not tutorials, production-grade systems with real failure modes accounted for.<br>
+My background spans both deep technical work and operations leadership, which means I think about reliability, automation, and the humans depending on the systems I build.<br>
+I'm drawn to **IaC, multi-cloud architecture, CI/CD pipelines, and serverless patterns** — and I bring the same discipline to all of it.<br>
+Open to collaboration on **AWS / Cloud / DevOps** projects and selective freelance work.<br>
+Ask me about **Terraform, Jenkins pipelines, AWS architectures, or GitHub Actions with OIDC**.<br>
+🏆 **AWS Certified Solutions Architect — Associate**
 
 ---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/justinjjohnson1)
 
+
 ---
 
 ## 💻 Tech Stack:
+
 **Cloud & Infrastructure**<br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -54,18 +56,25 @@ Fun fact: I stay active and apply the same discipline to my engineering work.
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ---
 
-## 🚀 Featured Project
-### AWS Hybrid Architecture Portfolio
+## 🚀 Featured Projects
+
+### [AWS Hybrid Architecture Portfolio](https://github.com/threejay20/aws-hybrid-architecture-portfolio)
 A collection of deployed AWS systems demonstrating production-grade patterns:
 - Serverless REST APIs (API Gateway, Lambda, DynamoDB)
 - Event-driven architectures (SNS, SQS, DLQs)
 - Secure static delivery (S3 + CloudFront with private origins)
 - CI/CD using GitHub Actions with **OIDC (no static AWS credentials)**
 
-👉 **View the portfolio:**  
-https://github.com/threejay20/aws-hybrid-architecture-portfolio
+### [Homelab AI Stack](https://github.com/threejay20/homelab-ai-stack)
+A fully staged local AI infrastructure built on Docker and WSL2, mirroring enterprise MLOps and LLMOps deployment patterns:
+- Local model serving with Ollama and MLflow experiment tracking
+- RAG pipeline with Qdrant vector search and LangChain
+- CI/CD for AI with automated eval pipelines and pytest
+- Monitoring and observability via Prometheus, Grafana, and Evidently AI
+- Multi-agent orchestration with a live React + WebSocket UI
 
 ---
 
@@ -80,4 +89,6 @@ https://github.com/threejay20/aws-hybrid-architecture-portfolio
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=threejay20&icon=0&color=0)](https://visitcount.itsvg.in)
+
