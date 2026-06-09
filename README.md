@@ -1,10 +1,10 @@
 # 💫 About Me:
-I build infrastructure that actually works — not demos, not tutorials, production-grade systems with real failure modes accounted for.<br>
+I build infrastructure that actually works. Not demos, not tutorials, production-grade systems with real failure modes accounted for.<br>
 My background spans both deep technical work and operations leadership, which means I think about reliability, automation, and the humans depending on the systems I build.<br>
-I'm drawn to **IaC, multi-cloud architecture, CI/CD pipelines, and serverless patterns** — and I bring the same discipline to all of it.<br>
+I'm drawn to **IaC, multi-cloud architecture, CI/CD pipelines, and serverless patterns**, and I bring the same discipline to all of it.<br>
 Open to collaboration on **AWS / Cloud / DevOps** projects and selective freelance work.<br>
 Ask me about **Terraform, Jenkins pipelines, AWS architectures, or GitHub Actions with OIDC**.<br>
-🏆 **AWS Certified Solutions Architect — Associate**
+🏆 **AWS Certified Solutions Architect (Associate)**
 
 ---
 
@@ -84,6 +84,14 @@ A fully staged local AI infrastructure built on Docker and WSL2, mirroring enter
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=threejay20&theme=dark&hide_border=false&layout=compact)
 
 ---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=threejay20&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
